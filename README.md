@@ -19,3 +19,18 @@
 [Первый модуль](https://github.com/ANegrash/Functional_circuitry/blob/main/lab1/or_by_nand.v) получает на вход 4 сигнала и на выход посылает значение их логического ИЛИ (полностью написан с помощью NAND). К нему прилагается [тестировочный модуль](https://github.com/ANegrash/Functional_circuitry/blob/main/lab1/or_tb.v).
 
 Я значительно упростил себе задачу, так что [второй модуль](https://github.com/ANegrash/Functional_circuitry/blob/main/lab1/shifrator.v), содержащий непосредственно шифратор, выглядит очень коротко. К нему также прилагается его [тестировочный модуль](https://github.com/ANegrash/Functional_circuitry/blob/main/lab1/shifrator_tb.v).
+
+## Лабораторная 2
+[**Отчёт**](https://github.com/ANegrash/Functional_circuitry/blob/main/lab2/report.pdf)
+
+**Вариант:** 
+| № | Выражение     | Ограничение                |
+|---|---------------|----------------------------|
+| 7 | $y=a*sqrt(b)$ | 2 сумматора и 2 умножителя |
+
+В [тестовом модуле функции](https://github.com/ANegrash/Functional_circuitry/blob/main/lab2/function_test.v) лежит пример тестирование с перебором всех пар операндов и автопроверкой.
+
+## Лабораторная 3
+[**Отчёт**](https://github.com/ANegrash/Functional_circuitry/blob/main/lab3/report.pdf)
+
+**Вариант:** такой же как и в лабораторной работе №2
